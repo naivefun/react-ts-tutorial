@@ -19,6 +19,7 @@
     "no-empty": false,
     "object-literal-sort-keys": false,
     "no-empty-interface": false,
+    "max-classes-per-file": false,
     "jsx-wrap-multiline": {
       "declaration": "parens",
       "assignment": "parens",
