@@ -27,6 +27,7 @@
     "node_modules",
     "build",
     "scripts",
+    "typescript",
     "acceptance-tests",
     "webpack",
     "jest",
